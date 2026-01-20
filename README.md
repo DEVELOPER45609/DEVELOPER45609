@@ -14,24 +14,7 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif">
 
-### 👨‍💻 About Me
 
-```javascript
-const rehan = {
-    location: "Karachi, Pakistan 🇵🇰",
-    role: "Mobile Application Developer",
-    code: ["Python", "Java", "C", "Dart"],
-    technologies: {
-        mobile: ["Flutter", "Android"],
-        backend: ["Django", "Firebase"],
-        databases: ["PostgreSQL", "MySQL"],
-        tools: ["DBeaver", "Git", "VS Code"],
-        learning: ["TensorFlow", "Machine Learning"]
-    },
-    currentFocus: "Building scalable mobile apps with AI integration",
-    funFact: "I debug in my sleep 😴💭"
-};
-```
 
 <br/>
 
